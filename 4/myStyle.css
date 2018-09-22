@@ -1,0 +1,42 @@
+p.heading
+{	background-color: deeppink;
+	font-family: Comic Sans MS;
+	font-style: italic;
+	font-size: 18pt;
+	text-align: center;
+	color: white;
+}
+
+body {
+    background-image: url("paper.jpg");
+	background-size: 100%;
+    background-repeat: repeat;
+	color : hotpink;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+button{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: hotpink;
+	color: white;
+}
+input{
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	color: hotpink;
+}
+#newLook{
+	border-width: 3px;
+	background-color: hotpink;
+	border-color: white;
+	border-style: dotted;
+	color: white;
+	font-family: Comic Sans Ms;
+	font-size: 15pt;
+	text-align: center;
+}
